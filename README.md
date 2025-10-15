@@ -43,42 +43,76 @@
 
 ### 🔹 SCRUD (2025.04 ~ 2025.05)  
 AI 기반 Spring + JPA 코드 자동 생성 플랫폼  
-🛠️ **사용 기술**: `Next.js`, `TypeScript`, `Tailwind`, `React Flow`, `Spring Boot`  
-[📄 상세보기](https://github.com/fightj/SCRUD)
+
+[![](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)]()  
+[![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]()  
+[![](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)]()  
+[![](https://img.shields.io/badge/ReactFlow-61DAFB?logo=react&logoColor=black)]()  
+[![](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)]()
+
+🔗 [📄 상세보기](https://github.com/fightj/SCRUD)
 
 ---
 
 ### 🔹 핀다 PinDa (2025.02 ~ 2025.04)  
 금융 통합 관리 + 소비 기반 다이어리 자동 생성  
-🛠️ **사용 기술**: `React`, `Redux`, `PWA`, `TypeScript`, `Tailwind`, `React Chart`, `DaisyUI`, `Spring Boot`  
-[📄 상세보기](https://github.com/fightj/PinDa)
+
+[![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)]()  
+[![](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)]()  
+[![](https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white)]()  
+[![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]()  
+[![](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)]()  
+[![](https://img.shields.io/badge/ReactChart-blue?logo=chart.js&logoColor=white)]()  
+[![](https://img.shields.io/badge/DaisyUI-FF4785?logo=daisyui&logoColor=white)]()  
+[![](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)]()
+
+🔗 [📄 상세보기](https://github.com/fightj/PinDa)
 
 ---
 
 ### 🔹 푸띵 FoodThink (2025.01 ~ 2025.02)  
 음성 & 제스처 기반 레시피 추천 웹앱  
-🛠️ **사용 기술**: `React`, `JavaScript`, `MediaPipe`, `PWA`, `Spring Boot`  
-[📄 상세보기](https://github.com/fightj/FoodThink)
+
+[![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)]()  
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]()  
+[![](https://img.shields.io/badge/MediaPipe-FF6F00?logo=google&logoColor=white)]()  
+[![](https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white)]()  
+[![](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)]()
+
+🔗 [📄 상세보기](https://github.com/fightj/FoodThink)
 
 ---
 
 ### 🔹 FIN FIN E (2024.12)  
 금융 상품 맞춤 추천 웹 서비스  
-🛠️ **사용 기술**: `Django`, `Vue.js`, `JavaScript`, `OpenAI API`  
-[📄 상세보기](https://github.com/fightj/FINFINE)
+
+[![](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)]()  
+[![](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)]()  
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]()  
+[![](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)]()
+
+🔗 [📄 상세보기](https://github.com/fightj/FINFINE)
 
 ---
 
 ### 🔹 OOTD AI (2023.09 ~ 2023.12)  
 날씨 + 사용자 정보 기반 패션 추천 서비스  
-🛠️ **사용 기술**: `Django`, `JavaScript`, `AWS`, `Nginx`  
+
+[![](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)]()  
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]()  
+[![](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)]()  
+[![](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)]()
+
 ❌ GitHub 비공개 / 링크 없음
 
 ---
 
 ### 🔹 문콕방지 자동문 (2021.03 ~ 2021.06)  
 아두이노 기반 초음파/충격 감지 자동문 프로젝트  
-🛠️ **사용 기술**: `Arduino`, `C 언어`  
+
+[![](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)]()  
+[![](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)]()
+
 ❌ GitHub 비공개 / 링크 없음
 
 ---
