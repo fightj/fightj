@@ -55,7 +55,7 @@
 ### 🔹 PinDa (2025.02 ~ 2025.04)
 > 금융 통합 관리 & 소비 기반 다이어리 자동 생성
 
-![핀다 대표 이미지](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-HsHeTWEs0SInxzR6WOSF3secY7nb3F.png)
+![핀다 대표 이미지](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Z6aHzGFcsVkvhsbyGKzzlkMg4ZRyHg.png)
 
 > **사용 기술**:  
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)]() [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)]() [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]() [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)]()
