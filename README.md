@@ -59,7 +59,6 @@
 >
 
 > **사용 기술**: [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)]() [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)]() [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]() [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)]()
-
 🔗 [상세보기](https://github.com/fightj/SSAFY_PinDa)
 
 ---
