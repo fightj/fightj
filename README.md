@@ -29,6 +29,7 @@
 - **정보처리기사** (한국산업인력공단) – 2024.06.18  
 - **SSAFY 성적 우수상** (1학기 종합 성적 3등) – 2024.12  
 - **핀테크 추천 웹 프로젝트 우수상** – 2024.12
+- **NCA(NAVER Cloud Platform Certified Associate)** – 2023.12
 
 ---
 
@@ -69,13 +70,11 @@ AI 기반 Spring + JPA 코드 자동 생성 플랫폼
 날씨 + 사용자 정보 기반 패션 추천 서비스  
 [![](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)]() [![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]() [![](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)]() [![](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)]()
 
-❌ GitHub 비공개 / 링크 없음
 
 ### 🔹 문콕방지 자동문 (2021.03 ~ 2021.06)
 아두이노 기반 초음파/충격 감지 자동문 프로젝트  
 [![](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)]() [![](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)]()
 
-❌ GitHub 비공개 / 링크 없음
 
 ---
 
