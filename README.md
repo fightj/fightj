@@ -43,7 +43,7 @@
 ### 🔹 SCRUD (2025.04 ~ 2025.05)
 > AI 기반 Spring + JPA 코드 자동 생성 플랫폼
 
-![SCRUD 대표 이미지](https://www.notion.so/image/attachment%3A19bc8297-13b3-44dd-9f9c-9c3fbc85d0e6%3Aimage.png?table=block&id=1fc31d2b-b664-8006-bd91-ceec976e71a4&spaceId=9967a69a-4d37-4758-93a7-4a697d2cb246&width=1540&userId=a16bbc13-884a-4e29-88d6-af0251a8fba6&cache=v2)
+![SCRUD 대표 이미지](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-gANMAtZ47hoQU6esMQk22SOKYmmdmh.png)
 
 > **사용 기술**:  
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)]() [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]() [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)]() [![React Flow](https://img.shields.io/badge/ReactFlow-6E40C9?logo=react&logoColor=white)]()
