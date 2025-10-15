@@ -1,117 +1,79 @@
-# 👋 자기소개
+# 👋 About Me
 
-안녕하세요! 정승국입니다!
+안녕하세요, **프론트엔드 개발자 정승국**입니다.  
+복잡한 문제를 끝까지 분석해 완성도 높은 UI/UX로 구현하는 데에 강점을 갖고 있으며, 사용자 중심의 서비스를 개발합니다.
 
+📧 **Email**: fightj@naver.com  
+🌐 **Portfolio**: [seoung-guk.vercel.app](https://seoung-guk.vercel.app)  
 
-* **정승국**
-* **[fightj@naver.com](mailto:fightj@naver.com)**
 
 ---
 
-## 👨‍💻 SKILLS
+## 🧠 Skills
 
-**React** 🟥🟥🟥🟥⬜
-
-* 컴포넌트 기반 아키텍처를 이해하고 활용할 수 있음
-* 기본적인 상태 관리와 이벤트 핸들링 가능
-* React Router와 Context API를 사용하여 소규모 프로젝트 진행 가능
-* 리액트 훅(React Hooks) 개념을 이해하고 이를 활용하여 개발 가능
-
-**Next.js** 🟥🟥🟥🟥⬜
-
-* Next.js의 파일 기반 라우팅 시스템을 이해하고 활용 가능
-* 서버 사이드 렌더링(SSR)과 정적 사이트 생성(SSG) 개념 이해
-* getServerSideProps, getStaticProps를 활용한 데이터 페칭 구현 가능
-* Image, Link 등 Next.js 내장 컴포넌트를 활용한 최적화 경험 보유
-
-**TypeScript** 🟥🟥🟥🟥⬜
-
-* JavaScript의 정적 타입 시스템을 이해하고 기본적인 타입 정의 가능
-* 인터페이스와 타입 별칭을 활용한 타입 선언 및 활용 가능
-* 제네릭 기본 개념을 이해하고 간단한 제네릭 함수 작성 가능
-* React와 함께 TypeScript를 사용하여 컴포넌트 Props 타입 정의 경험 보유
-
-**JavaScript** 🟥🟥🟥🟥⬜
-
-* ES6+ 를 이해하고 이를 활용하여 소규모 프로젝트 진행 가능
-
-**Django** 🟥🟥🟥🟥⬜
-
-* Django 프레임워크의 전반적인 구조와 개념을 이해하고 있음
-* 모델, 뷰, 템플릿(MVT) 패턴을 활용하여 웹 애플리케이션 개발 가능
-* Django ORM을 이용한 데이터베이스 연동과 관리 가능
-* RESTful API 개발 및 Django Rest Framework를 활용한 프로젝트 경험 보유
-
-**Vue**  🟥🟥🟥⬜⬜
-
-* Life Cycle을 이해하고, Vuex, Vue-router 를 활용하여 소규모 프로젝트 진행 가능
-* 컴포넌트 개념을 이해하고, 재사용을 위한 개발 가능
-
-**AWS** 🟥🟥⬜⬜⬜
-
-* EC2를 이용해 웹 애플리케이션 배포 경험 있음
-* AWS 환경에서 보안 설정 및 트래픽 관리 방법 이해
-* S3를 활용한 파일 저장 및 배포 가능
-* Lambda를 이용한 서버리스 아키텍처 설계 및 구현 가능
-
-**Figma** 🟥🟥🟥⬜⬜
-
-* Figma의 기본적인 툴과 기능에 대한 이해
-* 프로토타입 제작 및 공유 기능을 활용하여 소규모 프로젝트 진행 가능
-* 컴포넌트와 스타일 가이드를 사용한 효율적인 디자인 작업 가능
-* 실시간 협업 및 피드백 반영 경험 보유
+| Skill       | 숙련도 | 설명 |
+|-------------|--------|------|
+| **React**       | 🟥🟥🟥🟥⬜ | 컴포넌트 기반 설계, Hooks, Router, Context API 활용 |
+| **Next.js**     | 🟥🟥🟥🟥⬜ | SSR/SSG, 파일 기반 라우팅, 최적화 컴포넌트 활용 |
+| **TypeScript**  | 🟥🟥🟥🟥⬜ | Props 타입 정의, 인터페이스, 제네릭 함수 사용 |
+| **JavaScript**  | 🟥🟥🟥🟥⬜ | ES6+ 문법 활용, DOM 조작, 비동기 처리 |
+| **Django**      | 🟥🟥🟥🟥⬜ | MVT 패턴 기반 웹앱 개발, DRF를 통한 API 설계 |
+| **Vue.js**      | 🟥🟥🟥⬜⬜ | Vuex, Router 활용한 소규모 프로젝트 경험 |
+| **AWS**         | 🟥🟥⬜⬜⬜ | EC2, S3, Lambda를 통한 웹 서비스 배포 경험 |
+| **Figma**       | 🟥🟥🟥⬜⬜ | 프로토타입 제작, 협업 경험, 컴포넌트 관리 가능 |
 
 ---
 
-## 🎓 EXPERIENCE
+## 🏆 Awards & Certifications
 
-* 2018.03 \~ 2024.02    대학 졸업 (산업 ICT 기술공학과)
-* 2024.07 \~ 2025.06    SSAFY (삼성 청년 소프트웨어 AI 아카데미) 수료
-
----
-
-## 🏆 Awards / Certificates
-
-* 2025.04.04     SQLD (한국데이터산업진흥원(K-DATA)) 자격증 번호: SQLD-056019492
-* 2024.12      핀테크 금융 추천 웹 PJT / 우수상 수상 / SSAFY (삼성 소프트웨어 AI 아카데미)
-* 2024.12      SSAFY (삼성 소프트웨어 AI 아카데미) 성적 우수상 (1학기 코딩 집중 과정 종합 성적 3등)
-* 2024.06.18     정보처리기사 (한국산업인력공단) 자격증 번호: 24201030563F
+- **SQLD** (K-DATA) – 2025.04.04  
+- **정보처리기사** (한국산업인력공단) – 2024.06.18  
+- **SSAFY 성적 우수상** (1학기 종합 성적 3등) – 2024.12  
+- **핀테크 추천 웹 프로젝트 우수상** – 2024.12
 
 ---
 
-## 👨🏻‍💻 Project Summary
+## 📚 Education
 
-* 2025.04-14 \~ 2025.05-22 **SCRUD (Speedy CRUD)**
-
-  * Spring + JPA 개발자를 위한 AI 기반 코드 자동화 플랫폼
-
-* 2025.02-24 \~ 2025.04-11 **핀다 (PinDa)**
-
-  * 금융 통합 관리 & 금융 기록 기반 가계부 및 다이어리 작성 서비스
-
-* 2025.01-13 \~ 2025.02-21 **푸띵 (FoodThink)**
-
-  * AI 요리 추천 및 음성·제스처 기반 레시피 서비스
-
-* 2024.12.10 \~ 2024.12.22    **FIN FIN E (Find Finance Exchange)**
-
-  * 금융 상품 맞춤 추천 웹 서비스
-  * 카카오맵 API, 환율 API, ChatGPT API 활용
-
-* 2023.09.22 \~ 2023.12.13 **OOTD AI**
-
-  * 생성형 AI를 활용한 패션 추천 웹사이트
-  * Open Weather, GEO Locate, ChatGPT API를 활용한 날씨, 사용자 정보 기반 패션 맞춤 추천
-
-* 2021.03.25 \~ 2021.06.20  **문콕방지 자동문**
-
-  * 아두이노 프로젝트
-  * 초음파, 충격 감지, CAD, 3D 프린팅, 서보모터를 활용한 문콕방지 자동문
+- **동의대학교** 산업ICT기술공학과 – 2018.03 ~ 2024.02  
+- **SSAFY (삼성 청년 SW 아카데미)** – 2024.07 ~ 2025.06
 
 ---
 
+## 💼 Projects
 
+### 🔹 SCRUD (2025.04 ~ 2025.05)  
+AI 기반 Spring + JPA 코드 자동 생성 플랫폼  
+`Next.js / TypeScript / Tailwind / Spring Boot / React Flow`
 
-## 📞 연락처
+### 🔹 핀다 PinDa (2025.02 ~ 2025.04)  
+금융 통합 관리 + 소비 기반 다이어리 자동 생성  
+`React / Redux / PWA / Spring Boot / DaisyUI`
 
-* **이메일**: [fightj@naver.com](mailto:fightj@naver.com)
+### 🔹 푸띵 FoodThink (2025.01 ~ 2025.02)  
+음성 & 제스처 기반 레시피 추천 웹앱  
+`React / MediaPipe / Kakao 로그인 / PWA`
+
+### 🔹 FIN FIN E (2024.12)  
+금융 상품 맞춤 추천 웹 서비스  
+`OpenWeather / 환율 API / ChatGPT API / Kakao Map`
+
+### 🔹 OOTD AI (2023.09 ~ 2023.12)  
+날씨 + 사용자 정보 기반 패션 추천 서비스  
+`ChatGPT / GEO Locate / OpenWeather API`
+
+### 🔹 문콕방지 자동문 (2021.03 ~ 2021.06)  
+아두이노 기반 초음파/충격 감지 자동문 프로젝트  
+`Arduino / CAD / 서보모터 / 3D 프린팅`
+
+---
+
+## 💡 Summary
+
+- 🎯 사용자 중심 UI/UX 구현에 강점을 가진 **프론트엔드 개발자**  
+- 🧩 문제를 구조적으로 분석하고 **집요하게 해결**하는 개발 태도  
+- 📈 협업과 문서화, 코드 리뷰를 통한 **팀 중심 성장 지향**
+
+---
+
+📫 **이메일**: [fightj@naver.com](mailto:fightj@naver.com)  
