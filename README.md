@@ -55,8 +55,7 @@
 ### 🔹 PinDa (2025.02 ~ 2025.04)
 > 금융 통합 관리 & 소비 기반 다이어리 자동 생성
 
-![핀다 대표 이미지](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Z6aHzGFcsVkvhsbyGKzzlkMg4ZRyHg.png)
-<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Z6aHzGFcsVkvhsbyGKzzlkMg4ZRyHg.png" alt="pinda 대표 이미지" height="300"/>
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Z6aHzGFcsVkvhsbyGKzzlkMg4ZRyHg.png" alt="pinda 대표 이미지" height="450"/>
 > **사용 기술**:  
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)]() [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)]() [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]() [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)]()
 
@@ -102,8 +101,7 @@
 
 ### 🔹 문콕방지 자동문 (2021.03 ~ 2021.06)
 > 아두이노 기반 초음파/충격 감지 프로젝트
-
-![문콕방지 자동문 이미지](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-3sbrINerutEbo9Q982lyICw75b6bYc.png)
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-3sbrINerutEbo9Q982lyICw75b6bYc.png" alt="자동문 대표 이미지" height="450"/>
 
 > **사용 기술**:  
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)]() [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)]()
