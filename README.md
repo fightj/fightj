@@ -10,16 +10,14 @@
 
 ## 🧠 Skills
 
-| Skill       | 숙련도 | 설명 |
-|-------------|--------|------|
-| **React**       | 🟥🟥🟥🟥⬜ | 컴포넌트 기반 설계, Hooks, Router, Context API 활용 |
-| **Next.js**     | 🟥🟥🟥🟥⬜ | SSR/SSG, 파일 기반 라우팅, 최적화 컴포넌트 활용 |
-| **Vue.js**      | 🟥🟥🟥⬜⬜ | Vuex, Router 활용한 소규모 프로젝트 경험 |
-| **TypeScript**  | 🟥🟥🟥🟥⬜ | Props 타입 정의, 인터페이스, 제네릭 함수 사용 |
-| **JavaScript**  | 🟥🟥🟥🟥⬜ | ES6+ 문법 활용, DOM 조작, 비동기 처리 |
-| **Django**      | 🟥🟥🟥🟥⬜ | MVT 패턴 기반 웹앱 개발, DRF를 통한 API 설계 |
-| **AWS**         | 🟥🟥⬜⬜⬜ | EC2, S3, Lambda를 통한 웹 서비스 배포 경험 |
-| **Figma**       | 🟥🟥🟥⬜⬜ | 프로토타입 제작, 협업 경험, 컴포넌트 관리 가능 |
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
@@ -43,32 +41,48 @@
 
 ### 🔹 SCRUD (2025.04 ~ 2025.05)  
 AI 기반 Spring + JPA 코드 자동 생성 플랫폼  
-`Next.js / TypeScript / Tailwind / Spring Boot / React Flow`  
+**기술 스택:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
 [📄 상세보기](https://github.com/fightj/SCRUD)
 
 ### 🔹 핀다 PinDa (2025.02 ~ 2025.04)  
 금융 통합 관리 + 소비 기반 다이어리 자동 생성  
-`React / Redux / PWA / Spring Boot / DaisyUI`  
-[📄 상세보기](https://github.com/fightj/PinDa)
+**기술 스택:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+[📄 상세보기](https://github.com/fightj/pinda)
 
 ### 🔹 푸띵 FoodThink (2025.01 ~ 2025.02)  
 음성 & 제스처 기반 레시피 추천 웹앱  
-`React / MediaPipe / Kakao 로그인 / PWA`  
+**기술 스택:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat&logo=mediapipe&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
 [📄 상세보기](https://github.com/fightj/FoodThink)
 
 ### 🔹 FIN FIN E (2024.12)  
 금융 상품 맞춤 추천 웹 서비스  
-`OpenWeather / 환율 API / ChatGPT API / Kakao Map`  
-[📄 상세보기](https://github.com/fightj/FIN-FIN-E)
+**기술 스택:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![ChatGPT API](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Kakao Map API](https://img.shields.io/badge/Kakao%20Map-FFCD00?style=flat&logo=kakaotalk&logoColor=black)
+[📄 상세보기](https://github.com/fightj/finfine)
 
 ### 🔹 OOTD AI (2023.09 ~ 2023.12)  
 날씨 + 사용자 정보 기반 패션 추천 서비스  
-`ChatGPT / GEO Locate / OpenWeather API`  
+**기술 스택:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ❌ GitHub 비공개 / 링크 없음
 
 ### 🔹 문콕방지 자동문 (2021.03 ~ 2021.06)  
 아두이노 기반 초음파/충격 감지 자동문 프로젝트  
-`Arduino / CAD / 서보모터 / 3D 프린팅`  
+**기술 스택:**  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ❌ GitHub 비공개 / 링크 없음
 
 ---
@@ -78,5 +92,3 @@ AI 기반 Spring + JPA 코드 자동 생성 플랫폼
 - 🎯 사용자 중심 UI/UX 구현에 강점을 가진 **프론트엔드 개발자**  
 - 🧩 문제를 구조적으로 분석하고 **집요하게 해결**하는 개발 태도  
 - 📈 협업과 문서화, 코드 리뷰를 통한 **팀 중심 성장 지향**
-
----
