@@ -15,10 +15,10 @@
 |-------------|--------|------|
 | **React**       | 🟥🟥🟥🟥⬜ | 컴포넌트 기반 설계, Hooks, Router, Context API 활용 |
 | **Next.js**     | 🟥🟥🟥🟥⬜ | SSR/SSG, 파일 기반 라우팅, 최적화 컴포넌트 활용 |
+| **Vue.js**      | 🟥🟥🟥⬜⬜ | Vuex, Router 활용한 소규모 프로젝트 경험 |
 | **TypeScript**  | 🟥🟥🟥🟥⬜ | Props 타입 정의, 인터페이스, 제네릭 함수 사용 |
 | **JavaScript**  | 🟥🟥🟥🟥⬜ | ES6+ 문법 활용, DOM 조작, 비동기 처리 |
 | **Django**      | 🟥🟥🟥🟥⬜ | MVT 패턴 기반 웹앱 개발, DRF를 통한 API 설계 |
-| **Vue.js**      | 🟥🟥🟥⬜⬜ | Vuex, Router 활용한 소규모 프로젝트 경험 |
 | **AWS**         | 🟥🟥⬜⬜⬜ | EC2, S3, Lambda를 통한 웹 서비스 배포 경험 |
 | **Figma**       | 🟥🟥🟥⬜⬜ | 프로토타입 제작, 협업 경험, 컴포넌트 관리 가능 |
 
@@ -75,5 +75,3 @@ AI 기반 Spring + JPA 코드 자동 생성 플랫폼
 - 📈 협업과 문서화, 코드 리뷰를 통한 **팀 중심 성장 지향**
 
 ---
-
-📫 **이메일**: [fightj@naver.com](mailto:fightj@naver.com)  
