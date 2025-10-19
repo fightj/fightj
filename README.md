@@ -48,7 +48,7 @@
 > **사용 기술**:  
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)]() [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]() [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)]() [![React Flow](https://img.shields.io/badge/ReactFlow-6E40C9?logo=react&logoColor=white)]()
 
-🔗 [상세보기](https://github.com/fightj/SSAFY_SCRUD)
+🔗 [상세보기](https://github.com/fightj/SCRUD)
 
 ---
 
@@ -59,7 +59,7 @@
 
 
 > **사용 기술**: [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)]() [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)]() [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]() [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)]()
-🔗 [상세보기](https://github.com/fightj/SSAFY_PinDa)
+🔗 [상세보기](https://github.com/fightj/PinDa)
 
 ---
 
@@ -71,7 +71,7 @@
 > **사용 기술**:  
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)]() [![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?logo=google&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
 
-🔗 [상세보기](https://github.com/fightj/SSAFY_FoodThink)
+🔗 [상세보기](https://github.com/fightj/FoodThink)
 
 ---
 
